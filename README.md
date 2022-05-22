@@ -22,5 +22,21 @@ Here are some ideas to get you started:
 - 💬 Contact:     Message me on Bilibili: <a href="https://space.bilibili.com/28325282" target="_blank">ErBW_s</a>
 - 💬 Contact:     Email me: erbws@foxmail.com
 
-## This year...
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ErBWs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErBWs&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+## Statistics
+
+<p align="">
+  <a height="137px">
+  <a href="https://github.com/ErBWs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErBWs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/>
+  <a height="137px">
+  <a href="https://github.com/ErBWs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErBWs&hide_border=true&layout=compact&langs_count=8&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
+  </a>
+</p>
+    
+<p align="">
+  <a height="137px">
+    <a height="137px">
+    <a href="https://erbws.github.io">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ErBWs&repo=erbws.github.io&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
+</p>
