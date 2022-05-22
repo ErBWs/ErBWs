@@ -27,16 +27,9 @@ Here are some ideas to get you started:
 <p align="">
   <a height="137px">
   <a href="https://github.com/ErBWs">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErBWs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErBWs&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/>
   <a height="137px">
   <a href="https://github.com/ErBWs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErBWs&hide_border=true&layout=compact&langs_count=8&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErBWs&hide_border=true&layout=compact&langs_count=8&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/>
   </a>
-</p>
-    
-<p align="">
-  <a height="137px">
-    <a height="137px">
-    <a href="https://erbws.github.io">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ErBWs&repo=erbws.github.io&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
 </p>
