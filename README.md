@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🇨🇳 Nationality: Chinese
 - 🏫 School:      DongHua University (DHU)
-- 👨🏻‍💻 Goal:        Trying to become a full stack developer
+- 🎯 Goal:        Trying to become a full stack developer
 - 🧐 Learning:    Embedded development
 - 💬 Contact:     Message me on Bilibili: <a href="https://space.bilibili.com/28325282" target="_blank">ErBW_s</a>
 - 💬 Contact:     Email me: erbws@foxmail.com
