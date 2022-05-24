@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🇨🇳 Nationality: Chinese
 - 🏫 School:      DongHua University (DHU)
 - 🎯 Goal:        Trying to become a full stack developer
 - 🧐 Learning:    Embedded development
