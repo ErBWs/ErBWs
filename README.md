@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - 🏫 School:      DongHua University (DHU)
 - 🎯 Goal:        Trying to become a full stack developer
 - 🧐 Learning:    Embedded development
+- 📑 Website:     <a href="https://erbws.github.io" target="_blank">erbws.github.io (Haven't done yet)</a>
 - 💬 Contact:     Message me on Bilibili: <a href="https://space.bilibili.com/28325282" target="_blank">ErBW_s</a>
 - 💬 Contact:     Email me: erbws@foxmail.com
-- 📑 Website:     <a href="https://erbws.github.io" target="_blank">erbws.github.io (Haven't done yet)</a>
+> You surely can DM me on Twitter <a href="https://twitter.com/ErBW_s" target="_blank">@ErBW_s</a>, but this method is not recommended because I seldom check Twitter.
 
 ## Statistics of this year
 
