@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 🎯 Goal:        Trying to become a full stack developer
 - 🧐 Learning:    Embedded development
 - 📑 Website:     <a href="https://erbws.github.io" target="_blank">erbws.github.io (Haven't done yet)</a>
-- 💬 Contact:     Message me on Bilibili: <a href="https://space.bilibili.com/28325282" target="_blank">ErBW_s</a>
+- 💬 Contact:     Message me on Bilibili: <a href="https://message.bilibili.com/?spm_id_from=333.999.0.0#whisper/mid28325282" target="_blank">ErBW_s</a>
 - 💬 Contact:     Email me: erbws@foxmail.com
-> You surely can DM me on Twitter <a href="https://twitter.com/ErBW_s" target="_blank">@ErBW_s</a>, but this method is not recommended because I seldom check Twitter.
+- 💬 Contact:     DM me on Twitter: <a href="https://twitter.com/ErBW_s" target="_blank">@ErBW_s</a>
+>‼️ Twitter is not recommended because I seldom check Twitter.
 
 ## Statistics of this year
 
