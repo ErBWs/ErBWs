@@ -3,7 +3,7 @@
 - 🌏️ Mother Tongue:   Chinese
 - 🌏️ Language:        English
 - 🎯 Goal:            Trying to become a full stack developer
-- 🧐 Learning:        Embedded development
+- 🧐 Learning:        Software development
 - 📑 Website:         https://www.cnblogs.com/erbws
 - 💬 Contact:         Telegram me: [@ErBWs](https://t.me/ErBWs)
 - 💬 Contact:         Email me: erbws@foxmail.com
