@@ -3,7 +3,7 @@
 - 🌏️ Mother Tongue:   Chinese
 - 🌏️ Language:        English
 - 🎯 Goal:            Trying to become a full stack developer
-- 🧐 Learning:        Software development
+- 🧐 Learning:        C++, Rust, Unity
 - 📑 Website:         https://www.cnblogs.com/erbws
 - 💬 Contact:         Telegram me: [@ErBWs](https://t.me/ErBWs)
 - 💬 Contact:         Email me: erbws@foxmail.com
@@ -13,9 +13,10 @@
 <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg">
 </div>
