@@ -1,5 +1,9 @@
 ## Hello! I'm ErBW_s
 
+ErBW_s stands for Er Bai Wu shi, pinyin of 二百五十, which means 250
+
+You can call me baibaiwu (百百五), or bbw in short
+
 - 🌏️ Mother Tongue:   Chinese
 - 🌏️ Language:        English
 - 🎯 Goal:            Trying to become a full stack developer
