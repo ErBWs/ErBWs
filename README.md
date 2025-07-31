@@ -5,7 +5,7 @@ You can call me baibaiwu (百百五), or bbw in short
 - 🌏️ Mother Tongue:   Chinese
 - 🌏️ Language:        English
 - 🎯 Goal:            Trying to become a full stack developer
-- 🧐 Learning:        QT, TypeScript
+- 🧐 Learning:        Qt, TypeScript
 - 📑 Website:         https://www.cnblogs.com/erbws
 - 💬 Contact:         Telegram me: [@ErBWs](https://t.me/ErBWs)
 - 💬 Contact:         Email me: erbws@foxmail.com
