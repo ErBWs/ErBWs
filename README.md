@@ -5,7 +5,7 @@ You can call me baibaiwu (百百五), or bbw in short
 - 🌏️ Mother Tongue:   Chinese
 - 🌏️ Language:        English
 - 🎯 Goal:            Trying to become a full stack developer
-- 🧐 Learning:        C++, Rust, Unity
+- 🧐 Learning:        QT, TypeScript
 - 📑 Website:         https://www.cnblogs.com/erbws
 - 💬 Contact:         Telegram me: [@ErBWs](https://t.me/ErBWs)
 - 💬 Contact:         Email me: erbws@foxmail.com
@@ -14,12 +14,14 @@ You can call me baibaiwu (百百五), or bbw in short
 
 <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg">
 </div>
