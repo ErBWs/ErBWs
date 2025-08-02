@@ -15,6 +15,7 @@ You can call me baibaiwu (百百五), or bbw in short
 <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
@@ -22,6 +23,7 @@ You can call me baibaiwu (百百五), or bbw in short
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg">
 </div>
