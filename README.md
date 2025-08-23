@@ -31,5 +31,5 @@ You can call me baibaiwu (百百五), or bbw in short
 ## Statistics of this year
 
 <a href="https://github.com/ErBWs">
-  <img align="center" alt="ErBW_s' github stats" src="https://github-readme-stats.vercel.app/api?username=ErBWs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/>
+  <img align="center" alt="ErBW_s' github stats" src="https://github-readme-stats.vercel.app/api?username=ErBWs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true"/>
 </a>
