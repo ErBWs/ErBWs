@@ -6,7 +6,7 @@ You can call me baibaiwu (百百五), or bbw in short
 - 🌏️ Language:        English
 - 🎯 Goal:            Trying to become a full stack developer
 - 🧐 Learning:        Qt, TypeScript
-- 📑 Website:         https://www.cnblogs.com/erbws
+- 📑 Website:         https://erbws.github.io
 - 💬 Contact:         Email me: erbws@foxmail.com
 
 ## Keywords
