@@ -7,7 +7,7 @@ You can call me baibaiwu (百百五), or bbw in short
 - 🎯 Goal:            Trying to become a full stack developer
 - 🧐 Learning:        Qt, TypeScript
 - 📑 Website:         https://erbws.github.io
-- 💬 Contact:         Email me: erbws@foxmail.com
+- 💬 Contact:         Email me: erbws@qq.com
 
 ## Keywords
 
